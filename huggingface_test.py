@@ -6,7 +6,7 @@ from langchain import PromptTemplate, HuggingFaceHub
 from langchain import LLMChain
 
 #Give your api token
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_Mgl......"
 
 prompt_template = "Question: Tell me who won the {sport} in {year}"
 llm = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature":0.5, "max_length": 1000})
