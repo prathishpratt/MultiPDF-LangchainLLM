@@ -1,3 +1,6 @@
+#refer this https://linuxhint.com/huggingface-langchain-python/ and
+#https://cobusgreyling.medium.com/langchain-creating-large-language-model-llm-applications-via-huggingface-192423883a74
+
 import os
 from langchain import PromptTemplate, HuggingFaceHub
 from langchain import LLMChain
