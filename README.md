@@ -4,9 +4,13 @@ Used Google's **flan-t5-xxl** as the LLM. [HuggingFace](https://huggingface.co/g
 
 You can read this article [Medium](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac)
 
-This is how the project works. 
-![Working-PDF-LangChain](https://github.com/prathishpratt/MultiPDF-LangchainLLM/assets/64516584/c47d803f-ee41-4f52-89ca-5236ba19760e)
+<img width="1425" alt="image" src="https://github.com/prathishpratt/MultiPDF-LangchainLLM/assets/64516584/65b53340-85cd-43dd-95bb-093b88d815ad">
 
+<br>
+This is how the project works. 
+<img width="1417" alt="image" src="https://github.com/prathishpratt/MultiPDF-LangchainLLM/assets/64516584/5849a4fc-ced4-4d55-b98a-f27d97a22f47">
+
+<br>
 
 
 Please refer to the fstrings in the app.py functions to better understand the flow.
